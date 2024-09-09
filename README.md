@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindo ao meu perfil 💙
 
-<!--
-**naylabubula/naylabubula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nayla Da Silva Bubula Do Nascimento 
 
-Here are some ideas to get you started:
+Estou estudando na alura
+Estou desenvolvendo linguagem de javascript 
+Utilizo este espaço para minha organização e compartilhamento dos meu projeto desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrarem contato comigo 📫
+
+00001124910761sp@al.educacao.sp.gov.br 
+
+@nayla_bubulanascimento 
